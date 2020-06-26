@@ -5,7 +5,7 @@ public class SaleCommission{
   public static void main(String[] args){
 
     double commissionRate = 0.0;
-    double totalSale, commission;
+    double commission;
 
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter sale amount : ");
